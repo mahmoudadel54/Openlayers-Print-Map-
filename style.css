@@ -7,3 +7,16 @@ body{
     height: 100vh;
     width: 100vw;
 }
+#printPdf{
+    position: absolute !important;
+    right: 0 !important;
+    bottom: 4em !important;
+    z-index: 1;
+}
+#printImg{
+    z-index: 1;
+    position: absolute !important;
+
+    right: 0 !important;
+    bottom: 2em !important;
+}
